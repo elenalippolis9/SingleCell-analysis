@@ -349,10 +349,9 @@ markers_clean <- markers |>
 
 # Keep exactly 9 clusters (pick which ones!)
 all_clust <- levels(pbmc)
-# Option A: keep the 9 biggest clusters
+#keep the 9 biggest clusters
 keep9 <- names(sort(table(Idents(pbmc)), decreasing = TRUE))[1:10]
-# Option B: specify manually, e.g.:
-# keep9 <- c("0","1","2","3","4","5","6","7","8")
+
 
 markers9 <- dplyr::filter(markers_clean, cluster %in% keep9)
 
