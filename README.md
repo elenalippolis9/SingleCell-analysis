@@ -17,7 +17,6 @@ Single-cell RNA sequencing analysis pipeline using R and Seurat; process of raw 
 
 <img width="540" alt="Screenshot 2025-12-03 at 13 25 26" src="https://github.com/user-attachments/assets/0acf7fd8-ae69-4c24-975a-7826f75c156d" />
 
-<img width="540" alt="Screenshot 2025-12-03 at 13 25 33" src="https://github.com/user-attachments/assets/94887334-94ff-4576-b29d-4cd6f2e71065" />
 
 <img width="540" alt="Screenshot 2025-12-03 at 13 25 39" src="https://github.com/user-attachments/assets/03207a45-5856-40fa-b997-1f7e891274ec" />
 
